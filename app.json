@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "KlarTag",
+    "slug": "klartag-familienplaner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      }
+    }
+  }
+}
